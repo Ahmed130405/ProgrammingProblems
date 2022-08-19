@@ -1,2 +1,2 @@
-# programming-problems
+# ProgrammingProblems
 My solutions to programming problems
